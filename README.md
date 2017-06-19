@@ -1,6 +1,6 @@
 # Sailfish OS port for Xiaomi Redmi 1S (armani)
-1. Roadmap  
-2. Issues  
+1. [Roadmap](https://github.com/Litew/sfos-armani/projects/1)  
+2. [Issues](https://github.com/Litew/sfos-armani/issues)  
 3. Sources  
   [local manifests](https://github.com/Litew/local_manifests)  
   [mountpoints](https://github.com/mer-hybris/hybris-boot)  
