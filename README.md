@@ -3,7 +3,7 @@
 2. [Issues](https://github.com/Litew/sfos-armani/issues)  
 3. Sources  
   [local manifests](https://github.com/Litew/local_manifests)  
-  [mountpoints](https://github.com/mer-hybris/hybris-boot)  
+  [fixup-mountpoints](https://github.com/mer-hybris/hybris-boot)  
   [droid-hal-armani](https://github.com/Litew/droid-hal-armani)  
   [droid-hal-version-armani](https://github.com/Litew/droid-hal-version-armani)  
   [droid-config-armani](https://github.com/Litew/droid-config-armani)  
